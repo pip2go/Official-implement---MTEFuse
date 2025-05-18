@@ -1,5 +1,5 @@
 # Official implement MTEFuse -  Pytorch version
-C. Yu, *X. Jiang, “MTEFuse: A Multi-scale Transformer-CNN Embeded Infrared and Visible Images Fusion Network with Intermediate and Result-level Guidance”
+C. Yu, *X. Jiang, “MTEFuse: A Multi-scale Transformer-CNN Embeded Infrared and Visible Images Fusion Network with Intermediate and Result-level Loss Guidance”
 
 # 权重文件
 checkpoint/MTEFuse.pt
