@@ -189,9 +189,9 @@ def main(opt):
             totalloss = (
                     0.2 * loss_in +
                     1.2 * loss_grad +
-                    X * loss_ir_focus +
+                    1.6 * loss_ir_focus +
                     0.5 * loss_ssim +
-                    1.3 * loss_fuse_layers # 0.5
+                    1.5 * loss_fuse_layers # 0.5
             )
 
             # 反向传播
